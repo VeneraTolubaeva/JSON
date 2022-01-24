@@ -1,1 +1,18 @@
+{
+ "Bug report id": "Project-001",
+ "Summary": "What? Where? When?",
+ "Priority": ["Trivial", "Minor", "Major", "Critical", "Blocer"],
+ "Severity": ["Trivial", "Minor", "Major", "Critical", "Blocer"],
+ "Sprint": "sprint number",
+ "Fix version": "version number",
+ "Environment": ["Dev", "QA", "Pre-PROD", "PROD"],
+ "Prerequisites": [],
+ "Step to reproduce": [],
+ "Expected result: [],
+ "Actual result": [],
+ "Note": [],
+ "Attachments": ["screenshot", "video", "logs"]
+}
 
+
+ 
