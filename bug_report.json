@@ -8,7 +8,7 @@
  "Environment": ["Dev", "QA", "Pre-PROD", "PROD"],
  "Prerequisites": [],
  "Step to reproduce": [],
- "Expected result: [],
+ "Expected result": [],
  "Actual result": [],
  "Note": [],
  "Attachments": ["screenshot", "video", "logs"]
