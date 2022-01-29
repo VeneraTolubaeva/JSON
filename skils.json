@@ -8,7 +8,7 @@
 "dev tools": ["google chrome", "firefox"],
 "VPN": "what is it and how it works",
 "Mobile testing": ["features iOS", "android", "guidelines", "XCode", "Android Studio", "ADB", "vpn on iOS and Android", "mobile traffic via Charles and Fiddler"],
-"terminal Linux": ["copying", "creating", viewing", "moving"],
+"terminal Linux": ["copying", "creating", "viewing", "moving"],
 "SQL": ["create", "delete", "drop", "insert into", "select", "from", "where", "join"],
 "postgres database": ["installation", "configuration", "use"],
 "Redis": ["installation", "configuration", "use"],
